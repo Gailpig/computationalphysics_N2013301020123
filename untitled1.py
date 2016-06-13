@@ -18,7 +18,7 @@ end_time=10
  
  
 for i in range(int(end_time/dt)): 
-     u=v[i]+g*dt 
+     u=v[i]-g*dt 
      v.append(u) 
      t.append(dt*(i+1))
 
