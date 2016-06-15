@@ -25,6 +25,6 @@
 *  本次作业选的是第一章的第六题，详情请戳第五次作业
 *  [代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled2.py)
 
-##第六次作业
+##[第六次作业](https://www.zybuluo.com/Gailpig/note/408528)
 * 本次作业做的是L1，详情请戳第六次作业
 * [代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled3.py)
