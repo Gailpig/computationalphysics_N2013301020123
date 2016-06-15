@@ -10,8 +10,7 @@
 ##第二次作业
 *  学长的插件已经点赞了
 *  自学的成果好像不怎么好
-*  来来来，正所谓脑子不够图片来凑，附上一张图好了
-* 我可爱的男神 ![这是我可爱的男神！](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/20120621234520_QSu3L.thumb.600_0.jpg)
+* 这是我可爱的男神啊！！！ ![这是我可爱的男神！](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/20120621234520_QSu3L.thumb.600_0.jpg)
 
 ##[第三次作业](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled0.py)
 第三次作业果然还是对我来说有点难，所以作业也只做了level1，难度再大一点确实是不会了。不过就算是稍微丑了一点也没有关系就是了，
