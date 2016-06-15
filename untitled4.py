@@ -37,7 +37,7 @@ delta=5 #(m/s)
 x.append(0.0)
 y.append(0.0)
 z.append(0.0)
-v0=49 #float(input('v0='))#(m/s)
+v0=45 #float(input('v0='))#(m/s)
 phi=0 #pi*float(input('phi(degree)='))/180
 theta=pi/2-pi*float(input('elevation angle(degree)='))/180
 vx0=v0*sin(theta)*cos(phi)
