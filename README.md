@@ -21,7 +21,7 @@
 *  第四次的作业选的是第一章的第一题，这个题处理起来还是比较简单的，不过就是用Python的语言来写有点不适应就是了
 *  [代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled1.py)
 
-##[第五次作业](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/%E7%AC%AC%E4%BA%94%E4%BD%9C%E4%B8%9A.md)
+##[第五次作业](https://www.zybuluo.com/Gailpig/note/406571)
 *  第五次作业的作业选的是第一章的第六题，详情请戳第五次作业
 *  [代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled2.py)
 
