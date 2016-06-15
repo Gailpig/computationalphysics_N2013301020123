@@ -33,5 +33,5 @@
 *  [代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled4.py)
 
 ##[第八次作业]()
-*  本次作业做的是L1，详情请戳第八次作业
+*  本次作业做的是第三章的第七、八题，详情请戳第八次作业
 *  [代码请戳此处]()
