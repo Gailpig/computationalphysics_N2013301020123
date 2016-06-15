@@ -17,7 +17,7 @@
 第三次作业果然还是对我来说有点难，所以作业也只做了level1，难度再大一点确实是不会了。不过就算是稍微丑了一点也没有关系就是了，
 不开心状的脸￣へ￣
 
-##[第四次作业]https://www.zybuluo.com/Gailpig/note/408517)
+##[第四次作业](https://www.zybuluo.com/Gailpig/note/408517)
 *  第四次的作业选的是第一章的第一题，这个题处理起来还是比较简单的，不过就是用Python的语言来写有点不适应就是了
 *  [代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled1.py)
 
