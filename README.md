@@ -28,6 +28,6 @@
 * 本次作业做的是L1，详情请戳第六次作业
 * [代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled3.py)
  
-##[第七次作业]()
-*本次作业做的是L1，详情请戳第七次作业
-*[代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled4.py)
+##[第七次作业](https://www.zybuluo.com/Gailpig/note/408588)
+*  本次作业做的是L1，详情请戳第七次作业
+*  [代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled4.py)
