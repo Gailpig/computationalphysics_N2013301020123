@@ -18,13 +18,13 @@
 不开心状的脸￣へ￣
 
 ##[第四次作业](https://www.zybuluo.com/Gailpig/note/408517)
-*  第四次的作业选的是第一章的第一题，这个题处理起来还是比较简单的，不过就是用Python的语言来写有点不适应就是了
+*  本次作业选的是第一章的第一题，详情请戳第四次作业
 *  [代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled1.py)
 
 ##[第五次作业](https://www.zybuluo.com/Gailpig/note/406571)
-*  第五次作业的作业选的是第一章的第六题，详情请戳第五次作业
+*  本次作业选的是第一章的第六题，详情请戳第五次作业
 *  [代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled2.py)
 
 ##第六次作业
-* 第六次作业做的是L1，详情请戳第六次作业
+* 本次作业做的是L1，详情请戳第六次作业
 * [代码请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled3.py)
