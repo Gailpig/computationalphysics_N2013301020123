@@ -37,6 +37,4 @@
 *  [代码1请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled5.py)
 *  [代码2请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled6.py)
 
-##[第九次作业]()
-*  本次作业做的是L1，详情请戳第九次作业
-*  [代码请戳此处]()
+##[期末作业]()
