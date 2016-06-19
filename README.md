@@ -38,8 +38,11 @@
 *  [代码2请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled6.py)
 
 ##[第九次作业](https://www.zybuluo.com/Gailpig/note/410676)
-*  本次作业做得是第三章的第十二题，详情请戳第九次作业
+*  本次作业做的是第三章的第十二题，详情请戳第九次作业
 *  [代码1请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled7.py)
 *  [代码2请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled8.py)
 
+##[第十次作业]()
+*  本次作业做的第三章的第二十六题，详情请戳第十次作业
+*  [代码请戳此处]()
 ##[期末作业]()
