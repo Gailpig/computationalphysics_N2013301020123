@@ -42,8 +42,10 @@
 *  [代码1请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled7.py)
 *  [代码2请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled8.py)
 
-##[第十次作业]()
+##[第十次作业](https://www.zybuluo.com/Gailpig/note/413259)
 *  本次作业做的第三章的第二十六题，详情请戳第十次作业
-*  [代码请戳此处]()
+*  [代码1请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled9.py)
+*  [代码2请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled10.py)
+*  [代码3请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled11.py)
 
 ##[期末作业]()
