@@ -48,4 +48,8 @@
 *  [代码2请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled10.py)
 *  [代码3请戳此处](https://github.com/Gailpig/computationalphysics_N2013301020123/blob/master/untitled11.py)
 
+---------------
+文件经常上传不上去也是很烦躁，后天就是交作业的最后期限啦，所以暂时平时作业就不更新啦，把期末作业做完了如果还有时间再更新吧！一个学期的课程强行变成了一个月的补习也是自己又懒又作的结果啊(｡•ˇ‸ˇ•｡)
+---------------
+
 ##[期末作业]()
